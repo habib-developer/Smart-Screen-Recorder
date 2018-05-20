@@ -83,7 +83,7 @@
             this.lblTimer.AutoSize = true;
             this.lblTimer.Font = new System.Drawing.Font("Kristen ITC", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTimer.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(89)))), ((int)(((byte)(242)))));
-            this.lblTimer.Location = new System.Drawing.Point(179, 86);
+            this.lblTimer.Location = new System.Drawing.Point(93, 76);
             this.lblTimer.Name = "lblTimer";
             this.lblTimer.Size = new System.Drawing.Size(129, 27);
             this.lblTimer.TabIndex = 7;
@@ -116,7 +116,7 @@
             this.btnStop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnStop.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStop.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(89)))), ((int)(((byte)(242)))));
-            this.btnStop.Image = global::Smart_Screen_Recorder.Properties.Resources.Stop_Media_01_WF4;
+            this.btnStop.Image = global::Smart_Screen_Recorder.Properties.Resources.Stop_Media_01_WF;
             this.btnStop.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnStop.Location = new System.Drawing.Point(203, 166);
             this.btnStop.Name = "btnStop";
@@ -151,7 +151,7 @@
             this.btnSnapshot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSnapshot.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSnapshot.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(89)))), ((int)(((byte)(242)))));
-            this.btnSnapshot.Image = global::Smart_Screen_Recorder.Properties.Resources.Camera1;
+            this.btnSnapshot.Image = global::Smart_Screen_Recorder.Properties.Resources.Camera;
             this.btnSnapshot.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSnapshot.Location = new System.Drawing.Point(13, 116);
             this.btnSnapshot.Name = "btnSnapshot";

@@ -118,40 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Stop Media-0fd1-WF" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-0fd1-WF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop Media-01-WF" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-01-WF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop Media-01-WF1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-01-WF1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="SnapshotSound" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\camera.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Circle Pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Circle Pause.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Camera" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Camera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Camera1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Camera1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="CircledCheck_Box___01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CircledCheck Box - 01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Stop Media-01-WF3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-01-WF3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stop Media-01-WF2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-01-WF2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Circle_Pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Circle Pause.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Record" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Record.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Stop Media-01-WF4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Stop Media-01-WF4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Stop_Media_01_WF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop Media-01-WF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CircledCheck Box - 01" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CircledCheck Box - 01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Stop_Media_0fd1_WF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stop Media-0fd1-WF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

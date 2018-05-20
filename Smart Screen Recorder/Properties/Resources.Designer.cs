@@ -73,19 +73,9 @@ namespace Smart_Screen_Recorder.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Camera1 {
-            get {
-                object obj = ResourceManager.GetObject("Camera1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Circle_Pause {
             get {
-                object obj = ResourceManager.GetObject("Circle Pause", resourceCulture);
+                object obj = ResourceManager.GetObject("Circle_Pause", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -95,7 +85,7 @@ namespace Smart_Screen_Recorder.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap CircledCheck_Box___01 {
             get {
-                object obj = ResourceManager.GetObject("CircledCheck Box - 01", resourceCulture);
+                object obj = ResourceManager.GetObject("CircledCheck_Box___01", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -124,47 +114,7 @@ namespace Smart_Screen_Recorder.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap Stop_Media_01_WF {
             get {
-                object obj = ResourceManager.GetObject("Stop Media-01-WF", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Stop_Media_01_WF1 {
-            get {
-                object obj = ResourceManager.GetObject("Stop Media-01-WF1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Stop_Media_01_WF2 {
-            get {
-                object obj = ResourceManager.GetObject("Stop Media-01-WF2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Stop_Media_01_WF3 {
-            get {
-                object obj = ResourceManager.GetObject("Stop Media-01-WF3", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Stop_Media_01_WF4 {
-            get {
-                object obj = ResourceManager.GetObject("Stop Media-01-WF4", resourceCulture);
+                object obj = ResourceManager.GetObject("Stop_Media_01_WF", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -174,7 +124,7 @@ namespace Smart_Screen_Recorder.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap Stop_Media_0fd1_WF {
             get {
-                object obj = ResourceManager.GetObject("Stop Media-0fd1-WF", resourceCulture);
+                object obj = ResourceManager.GetObject("Stop_Media_0fd1_WF", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
