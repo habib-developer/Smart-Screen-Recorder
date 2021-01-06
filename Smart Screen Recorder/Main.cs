@@ -7,10 +7,10 @@ using System.Drawing;
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
-using AForge.Video.FFMPEG;
 using AForge;
 using AForge.Video;
 using System.Globalization;
+using Accord.Video.FFMPEG;
 
 namespace Smart_Screen_Recorder
 {

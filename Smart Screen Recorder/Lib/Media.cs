@@ -1,4 +1,5 @@
-﻿using Smart_Screen_Recorder.Properties;
+﻿using Accord.Video.FFMPEG;
+using Smart_Screen_Recorder.Properties;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -6,7 +7,6 @@ using System.IO;
 using System.Media;
 using System.Text;
 using System.Windows.Forms;
-using AForge.Video.FFMPEG;
 
 namespace Smart_Screen_Recorder.Lib
 {
